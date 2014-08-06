@@ -1,4 +1,6 @@
 first-repo
 ==========
 
-github is awesome!
+github is amazing
+
+
